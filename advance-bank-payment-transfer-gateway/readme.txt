@@ -4,9 +4,9 @@
  - Contributors: developerramesh
  - Tags: woocommerce, payment gateway, gateway, manual payment
  - Requires WooCommerce at least: 2.1
- - Stable tag: 6.4
+ - Stable tag: 6.5
  - Version: 6.4
- - Tested up to: 6.4.0
+ - Tested up to: 6.5.0
  - Author URI: https://in.linkedin.com/in/developer-ramesh
  - Plugin URI: https://github.com/developer-ramesh
  - License: GPLv3.0 or later
@@ -38,6 +38,10 @@ Upload the Bank Payment Receipt is require on the checkout page before submit th
 You can also use shortcode directcly in checkout page [woocommerce_checkout]
 
 == Frequently Asked Questions ==
+I am a Web Developer and I do website development. I worked as a Tech Lead and I have trained a team of 20+ web developers.
+
+You can enquire for web design cost or any web design services.
+
 Email - ramesh@capsquery.com
 
 You can contact me on my website for custom support: https://capsquery.com
